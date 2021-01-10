@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 👋</div>  
   
 
@@ -96,8 +91,6 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkov85&theme=great-gatsby&layout=compact)
 
