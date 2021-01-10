@@ -71,21 +71,9 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 
 
 ## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=volkov85&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-----
 
 <!--
 **volkov85/volkov85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
