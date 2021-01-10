@@ -9,14 +9,8 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -51,24 +45,15 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 
 </td></tr></table>  
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/volkov85" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-
 
 ## Recent Blog Posts  
 <div align="center">
