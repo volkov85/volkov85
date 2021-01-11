@@ -45,7 +45,7 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 </td></tr></table>  
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/volkov85" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
