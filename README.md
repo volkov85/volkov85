@@ -52,7 +52,7 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 </div>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" align="center" /></div> 
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=volkov85&&style=flat-square" align="center" />
