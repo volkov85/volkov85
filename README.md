@@ -10,8 +10,8 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 - ⚡ Fun fact: I use tabs over spaces  
   
 ## My Skill Set  
-<table style="border: 0;">
-<tr><td valign="top" width="50%">
+<table>
+<tr><td valign="top" width="50%" style="border: 0">
   
 ### Frontend  
 <div align="center">  
