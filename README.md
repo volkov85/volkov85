@@ -4,7 +4,7 @@
 I enjoy creating web services, platforms, online stores and simple one page websites. I have been in web development not long ago, but I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
   
 
-- 🌱 I’m currently learning React + Redux  
+- 🌱 I’m currently learning React  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
