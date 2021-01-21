@@ -7,7 +7,7 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 - 🌱 I’m currently learning React  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use spaces over tabs
   
 ## My Skill Set  
 <table>
