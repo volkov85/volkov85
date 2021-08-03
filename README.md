@@ -1,10 +1,10 @@
-### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 👋</div>  
+### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 I currently live and work in Dubai </div>  
   
 
-I enjoy creating web services, platforms, online stores and simple one page websites. I have been in web development not long ago, but I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
+I enjoy creating web services, platforms, online stores and simple one page websites. I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I work with React+TS+MobX
   
 
 - ⚡ Fun fact: I use spaces over tabs
