@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 I currently live and work in Dubai </div>  
+### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 I currently live and work in Dubai 🇦🇪</div>  
   
 
 I enjoy creating web services, platforms, online stores and simple one page websites. I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
