@@ -8,7 +8,7 @@ I enjoy creating web services, platforms, online stores and simple one page webs
   
 ## My Skill Set  
 <table>
-<tr><td valign="top" width="100%">
+<tr><td valign="center" width="100%">
   
 ### Frontend  
 <div align="center">  
