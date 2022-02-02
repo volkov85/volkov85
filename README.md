@@ -4,10 +4,7 @@
 I enjoy creating web services, platforms, online stores and simple one page websites. I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
   
 
-- 🌱 I work with React+TS+MobX
-  
-
-- ⚡ Fun fact: I use spaces over tabs
+- 🌱 My stack - React+TS+MobX
   
 ## My Skill Set  
 <table>
