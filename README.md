@@ -1,5 +1,4 @@
 ### <div align="center">Hi, I'm FrontEnd Web Developer from Nur-Sultan(Astana), Kazakhstan 🇰🇿 I currently live and work in Dubai 🇦🇪</div>  
-  
 
 I enjoy creating web services, platforms, online stores and simple one page websites. I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
   
@@ -30,7 +29,9 @@ I enjoy creating web services, platforms, online stores and simple one page webs
   <a href="https://github.com/volkov85" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>  
-</div>  
+</div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Github Stats
 <table>
