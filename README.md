@@ -24,13 +24,6 @@ I enjoy creating web services, platforms, online stores and simple one page webs
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
 </div>
 
-## Connect with me  
-<div align="left">
-  <a href="https://github.com/volkov85" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>  
-</div>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Github Stats
