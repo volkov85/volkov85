@@ -34,18 +34,6 @@ I like working on **platforms, services, and complex frontend applications**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🔥 Current Focus
 
 * Advanced **React architecture**
@@ -69,4 +57,35 @@ I like working on **platforms, services, and complex frontend applications**.
 <a href="https://linkedin.com/in/artyom-volkov-a68683132">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=volkov85&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=volkov85&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
