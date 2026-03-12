@@ -72,9 +72,9 @@ I like working on **platforms, services, and complex frontend applications**.
 </p>
 
 <p align="center">
-  <img
+  <img 
+    height="250"
     src="https://github-readme-activity-graph.vercel.app/graph?username=volkov85&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
   />
 </p>
 
