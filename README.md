@@ -1,35 +1,35 @@
 <h1 align="center">Hi 👋, I'm Artyom</h1>
-<h3 align="center">Senior Frontend Developer | React • TypeScript • JavaScript</h3>
+<h3 align="center">Frontend Developer | React • TypeScript • JavaScript</h3>
 
 <p align="center">
-Building modern web platforms and scalable frontend architectures
+Building modern web applications and scalable user interfaces
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;React+%2B+TypeScript+Developer;Building+Modern+Web+Apps;Open+to+Interesting+Projects&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript+Engineer;Building+Modern+Web+Applications;Open+to+Interesting+Projects" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-Frontend developer specializing in building **modern web applications and scalable UI architectures**.
+Frontend developer focused on building **modern, scalable web applications**.
 
-I focus on:
+I enjoy developing:
 
-- ⚛️ React ecosystem
-- 📦 TypeScript architecture
-- 🚀 performance & scalability
-- 🎯 clean UI and developer experience
+* ⚛️ interactive user interfaces with **React**
+* 📦 maintainable applications with **TypeScript**
+* 🚀 fast and responsive web experiences
+* 🎯 clean architecture and good UX
 
-I enjoy building **platforms, real-time systems, and complex frontend applications**.
+I like working on **platforms, services, and complex frontend applications**.
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,git,github,vscode,electron,docker" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,electron,html,css,git,github,vscode,docker" />
 </p>
 
 ---
@@ -48,14 +48,22 @@ I enjoy building **platforms, real-time systems, and complex frontend applicatio
 
 ## 🔥 Current Focus
 
-- Advanced **React architecture**
-- **TypeScript generics**
-- Scalable frontend platforms
-- High performance UI systems
+* Advanced **React architecture**
+* Scalable frontend applications
+* High-performance UI
+* Modern web development
 
 ---
 
-## 🌐 Connect
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/volkov85/volkov85/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/artyom-volkov-a68683132">
