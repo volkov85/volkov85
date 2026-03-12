@@ -1,9 +1,13 @@
-### <div align="center">Hi, I'm FrontEnd Web Developer from Astana, Kazakhstan 🇰🇿
+### <div align="center">Hi, I'm a Frontend Developer from Astana, Kazakhstan 🇰🇿</div>
 
-I enjoy creating web services, platforms, online stores and simple one page websites. I am very actively working and strive to become the best in my field. I am always looking for more interesting projects.  
-  
+I specialize in building modern, scalable web applications.  
+My main focus is **React, TypeScript, and JavaScript**.
 
-- 🌱 My stack - JS+React+TS
+I enjoy developing platforms, web services, and interactive user interfaces with clean architecture and strong UX.
+
+Always open to interesting projects, collaborations, and new challenges.
+
+- 🚀 **Core stack:** JavaScript · React · TypeScript
   
 ## My Skill Set  
  
