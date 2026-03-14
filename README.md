@@ -66,7 +66,7 @@ I like working on **platforms, services, and complex frontend applications**.
 <p align="center">
   <img
     height="180em"
-    src="https://streak-stats.demolab.com?user=volkov85&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=volkov85&theme=tokyonight&hide_border=true&v=1"
     alt="GitHub Streak Stats"
   />
 </p>
@@ -74,7 +74,7 @@ I like working on **platforms, services, and complex frontend applications**.
 <p align="center">
   <img 
     height="250"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=volkov85&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=volkov85&theme=tokyo-night&hide_border=true&v=1"
   />
 </p>
 
@@ -84,8 +84,8 @@ I like working on **platforms, services, and complex frontend applications**.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=volkov85&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
