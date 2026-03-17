@@ -6,6 +6,10 @@ Building modern web applications and scalable user interfaces
 </p>
 
 <p align="center">
+Crafting production-ready open source libraries for realtime applications
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%2B+TypeScript+Engineer;Building+Modern+Web+Applications;Open+to+Interesting+Projects" />
 </p>
 
@@ -23,6 +27,25 @@ I enjoy developing:
 * 🎯 clean architecture and good UX
 
 I like working on **platforms, services, and complex frontend applications**.
+
+---
+
+## 🚀 My Open Source
+
+### ⚡ react-realtime-hooks
+
+![npm](https://img.shields.io/npm/v/react-realtime-hooks)
+![downloads](https://img.shields.io/npm/dm/react-realtime-hooks)
+![license](https://img.shields.io/npm/l/react-realtime-hooks)
+
+Production-ready React hooks for realtime apps (WebSocket, SSE, reconnect logic, heartbeat, online status)
+
+🔹 5+ hooks: useWebSocket, useEventSource, useReconnect, useHeartbeat, useOnlineStatus  
+🔹 Built for scalable realtime apps (chat, games, dashboards)  
+🔹 TypeScript-first  
+
+🔹 https://www.npmjs.com/package/react-realtime-hooks  
+🔹 https://github.com/volkov85/react-realtime-hooks  
 
 ---
 
