@@ -107,5 +107,5 @@ Production-ready React hooks for realtime apps (WebSocket, SSE, reconnect logic,
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-gilt-rho-62.vercel.app/api?username=volkov85&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-gilt-rho-62.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-gilt-rho-62.vercel.app/api/top-langs/?username=volkov85&layout=compact&theme=tokyonight&hide_border=true&v=2"/>
 </p>
