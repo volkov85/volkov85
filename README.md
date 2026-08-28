@@ -83,21 +83,13 @@ Production-ready React hooks for realtime apps (WebSocket, SSE, reconnect logic,
 </p>
 
 ---
-## 📊 GitHub Activity
+
+## 📊 GitHub
 
 <p align="center">
   <img
-    height="180em"
     src="https://github-readme-streak-stats-eight.vercel.app?user=volkov85&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="250"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=volkov85&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
+    alt="GitHub Streak"
   />
 </p>
 
